@@ -59,6 +59,7 @@ DecoratorExtension
 ==================
 
 Dekorátor je rozšíření, pomocí kterého můžeme nastavit tagy nebo doplnit `setup` (např. volání metod) u všech služeb určité třídy nebo implementující určité rozhraní.
+Např. když potřebujete do BasePresenteru přidat nějaký parametr z configu.
 
 /--neon
 decorator:
